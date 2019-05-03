@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 45a9b192b25d8e1439fa47306ebe5168
+timeCreated: 1527854603
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder002
+    100004: Cylinder003
+    100006: Cylinder004
+    100008: Cylinder005
+    100010: Cylinder006
+    100012: Cylinder007
+    100014: Cylinder008
+    100016: Cylinder009
+    100018: Cylinder010
+    100020: Cylinder011
+    100022: Cylinder012
+    100024: Cylinder013
+    100026: Cylinder014
+    100028: Cylinder015
+    100030: Cylinder016
+    100032: Cylinder017
+    100034: Cylinder018
+    100036: Cylinder019
+    100038: Cylinder020
+    100040: Cylinder021
+    100042: Cylinder022
+    100044: Cylinder023
+    100046: Cylinder024
+    100048: Cylinder025
+    100050: Cylinder026
+    100052: Cylinder027
+    100054: Cylinder028
+    100056: Cylinder029
+    100058: Cylinder030
+    100060: Cylinder031
+    100062: Cylinder032
+    100064: Cylinder033
+    100066: Cylinder034
+    100068: Cylinder035
+    100070: Cylinder036
+    100072: stitch_result_stitch all
+    100074: stitch_result_stitch all 1
+    100076: stitch_result_stitch all 10
+    100078: stitch_result_stitch all 11
+    100080: stitch_result_stitch all 12
+    100082: stitch_result_stitch all 13
+    100084: stitch_result_stitch all 14
+    100086: stitch_result_stitch all 15
+    100088: stitch_result_stitch all 16
+    100090: stitch_result_stitch all 17
+    100092: stitch_result_stitch all 18
+    100094: stitch_result_stitch all 19
+    100096: stitch_result_stitch all 2
+    100098: stitch_result_stitch all 20
+    100100: stitch_result_stitch all 21
+    100102: stitch_result_stitch all 22
+    100104: stitch_result_stitch all 23
+    100106: stitch_result_stitch all 3
+    100108: stitch_result_stitch all 4
+    100110: stitch_result_stitch all 5
+    100112: stitch_result_stitch all 6
+    100114: stitch_result_stitch all 7
+    100116: stitch_result_stitch all 8
+    100118: stitch_result_stitch all 9
+    100120: //RootNode
+    400000: Cylinder001
+    400002: Cylinder002
+    400004: Cylinder003
+    400006: Cylinder004
+    400008: Cylinder005
+    400010: Cylinder006
+    400012: Cylinder007
+    400014: Cylinder008
+    400016: Cylinder009
+    400018: Cylinder010
+    400020: Cylinder011
+    400022: Cylinder012
+    400024: Cylinder013
+    400026: Cylinder014
+    400028: Cylinder015
+    400030: Cylinder016
+    400032: Cylinder017
+    400034: Cylinder018
+    400036: Cylinder019
+    400038: Cylinder020
+    400040: Cylinder021
+    400042: Cylinder022
+    400044: Cylinder023
+    400046: Cylinder024
+    400048: Cylinder025
+    400050: Cylinder026
+    400052: Cylinder027
+    400054: Cylinder028
+    400056: Cylinder029
+    400058: Cylinder030
+    400060: Cylinder031
+    400062: Cylinder032
+    400064: Cylinder033
+    400066: Cylinder034
+    400068: Cylinder035
+    400070: Cylinder036
+    400072: stitch_result_stitch all
+    400074: stitch_result_stitch all 1
+    400076: stitch_result_stitch all 10
+    400078: stitch_result_stitch all 11
+    400080: stitch_result_stitch all 12
+    400082: stitch_result_stitch all 13
+    400084: stitch_result_stitch all 14
+    400086: stitch_result_stitch all 15
+    400088: stitch_result_stitch all 16
+    400090: stitch_result_stitch all 17
+    400092: stitch_result_stitch all 18
+    400094: stitch_result_stitch all 19
+    400096: stitch_result_stitch all 2
+    400098: stitch_result_stitch all 20
+    400100: stitch_result_stitch all 21
+    400102: stitch_result_stitch all 22
+    400104: stitch_result_stitch all 23
+    400106: stitch_result_stitch all 3
+    400108: stitch_result_stitch all 4
+    400110: stitch_result_stitch all 5
+    400112: stitch_result_stitch all 6
+    400114: stitch_result_stitch all 7
+    400116: stitch_result_stitch all 8
+    400118: stitch_result_stitch all 9
+    400120: //RootNode
+    2100000: 'Material #25'
+    2100002: 'Material #26'
+    2100004: 'Material #28'
+    2100006: No Name
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Cylinder003
+    2300006: Cylinder004
+    2300008: Cylinder005
+    2300010: Cylinder006
+    2300012: Cylinder007
+    2300014: Cylinder008
+    2300016: Cylinder009
+    2300018: Cylinder010
+    2300020: Cylinder011
+    2300022: Cylinder012
+    2300024: Cylinder013
+    2300026: Cylinder014
+    2300028: Cylinder015
+    2300030: Cylinder016
+    2300032: Cylinder017
+    2300034: Cylinder018
+    2300036: Cylinder019
+    2300038: Cylinder020
+    2300040: Cylinder021
+    2300042: Cylinder022
+    2300044: Cylinder023
+    2300046: Cylinder024
+    2300048: Cylinder025
+    2300050: Cylinder026
+    2300052: Cylinder027
+    2300054: Cylinder028
+    2300056: Cylinder029
+    2300058: Cylinder030
+    2300060: Cylinder031
+    2300062: Cylinder032
+    2300064: Cylinder033
+    2300066: Cylinder034
+    2300068: Cylinder035
+    2300070: Cylinder036
+    2300072: stitch_result_stitch all
+    2300074: stitch_result_stitch all 1
+    2300076: stitch_result_stitch all 10
+    2300078: stitch_result_stitch all 11
+    2300080: stitch_result_stitch all 12
+    2300082: stitch_result_stitch all 13
+    2300084: stitch_result_stitch all 14
+    2300086: stitch_result_stitch all 15
+    2300088: stitch_result_stitch all 16
+    2300090: stitch_result_stitch all 17
+    2300092: stitch_result_stitch all 18
+    2300094: stitch_result_stitch all 19
+    2300096: stitch_result_stitch all 2
+    2300098: stitch_result_stitch all 20
+    2300100: stitch_result_stitch all 21
+    2300102: stitch_result_stitch all 22
+    2300104: stitch_result_stitch all 23
+    2300106: stitch_result_stitch all 3
+    2300108: stitch_result_stitch all 4
+    2300110: stitch_result_stitch all 5
+    2300112: stitch_result_stitch all 6
+    2300114: stitch_result_stitch all 7
+    2300116: stitch_result_stitch all 8
+    2300118: stitch_result_stitch all 9
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Cylinder003
+    3300006: Cylinder004
+    3300008: Cylinder005
+    3300010: Cylinder006
+    3300012: Cylinder007
+    3300014: Cylinder008
+    3300016: Cylinder009
+    3300018: Cylinder010
+    3300020: Cylinder011
+    3300022: Cylinder012
+    3300024: Cylinder013
+    3300026: Cylinder014
+    3300028: Cylinder015
+    3300030: Cylinder016
+    3300032: Cylinder017
+    3300034: Cylinder018
+    3300036: Cylinder019
+    3300038: Cylinder020
+    3300040: Cylinder021
+    3300042: Cylinder022
+    3300044: Cylinder023
+    3300046: Cylinder024
+    3300048: Cylinder025
+    3300050: Cylinder026
+    3300052: Cylinder027
+    3300054: Cylinder028
+    3300056: Cylinder029
+    3300058: Cylinder030
+    3300060: Cylinder031
+    3300062: Cylinder032
+    3300064: Cylinder033
+    3300066: Cylinder034
+    3300068: Cylinder035
+    3300070: Cylinder036
+    3300072: stitch_result_stitch all
+    3300074: stitch_result_stitch all 1
+    3300076: stitch_result_stitch all 10
+    3300078: stitch_result_stitch all 11
+    3300080: stitch_result_stitch all 12
+    3300082: stitch_result_stitch all 13
+    3300084: stitch_result_stitch all 14
+    3300086: stitch_result_stitch all 15
+    3300088: stitch_result_stitch all 16
+    3300090: stitch_result_stitch all 17
+    3300092: stitch_result_stitch all 18
+    3300094: stitch_result_stitch all 19
+    3300096: stitch_result_stitch all 2
+    3300098: stitch_result_stitch all 20
+    3300100: stitch_result_stitch all 21
+    3300102: stitch_result_stitch all 22
+    3300104: stitch_result_stitch all 23
+    3300106: stitch_result_stitch all 3
+    3300108: stitch_result_stitch all 4
+    3300110: stitch_result_stitch all 5
+    3300112: stitch_result_stitch all 6
+    3300114: stitch_result_stitch all 7
+    3300116: stitch_result_stitch all 8
+    3300118: stitch_result_stitch all 9
+    4300000: stitch_result_stitch all
+    4300002: stitch_result_stitch all
+    4300004: stitch_result_stitch all
+    4300006: stitch_result_stitch all
+    4300008: stitch_result_stitch all
+    4300010: stitch_result_stitch all
+    4300012: stitch_result_stitch all
+    4300014: stitch_result_stitch all
+    4300016: stitch_result_stitch all
+    4300018: stitch_result_stitch all
+    4300020: stitch_result_stitch all
+    4300022: stitch_result_stitch all
+    4300024: stitch_result_stitch all
+    4300026: stitch_result_stitch all
+    4300028: stitch_result_stitch all
+    4300030: stitch_result_stitch all
+    4300032: stitch_result_stitch all
+    4300034: stitch_result_stitch all
+    4300036: stitch_result_stitch all
+    4300038: stitch_result_stitch all
+    4300040: stitch_result_stitch all
+    4300042: stitch_result_stitch all
+    4300044: stitch_result_stitch all
+    4300046: stitch_result_stitch all
+    4300048: Cylinder001
+    4300050: Cylinder002
+    4300052: Cylinder003
+    4300054: Cylinder004
+    4300056: Cylinder005
+    4300058: Cylinder006
+    4300060: Cylinder007
+    4300062: Cylinder008
+    4300064: Cylinder009
+    4300066: Cylinder010
+    4300068: Cylinder011
+    4300070: Cylinder012
+    4300072: Cylinder013
+    4300074: Cylinder014
+    4300076: Cylinder015
+    4300078: Cylinder016
+    4300080: Cylinder017
+    4300082: Cylinder018
+    4300084: Cylinder019
+    4300086: Cylinder020
+    4300088: Cylinder021
+    4300090: Cylinder022
+    4300092: Cylinder023
+    4300094: Cylinder024
+    4300096: Cylinder025
+    4300098: Cylinder026
+    4300100: Cylinder027
+    4300102: Cylinder028
+    4300104: Cylinder029
+    4300106: Cylinder030
+    4300108: Cylinder031
+    4300110: Cylinder032
+    4300112: Cylinder033
+    4300114: Cylinder034
+    4300116: Cylinder035
+    4300118: Cylinder036
+    6400000: Cylinder001
+    6400002: Cylinder002
+    6400004: Cylinder003
+    6400006: Cylinder004
+    6400008: Cylinder005
+    6400010: Cylinder006
+    6400012: Cylinder007
+    6400014: Cylinder008
+    6400016: Cylinder009
+    6400018: Cylinder010
+    6400020: Cylinder011
+    6400022: Cylinder012
+    6400024: Cylinder013
+    6400026: Cylinder014
+    6400028: Cylinder015
+    6400030: Cylinder016
+    6400032: Cylinder017
+    6400034: Cylinder018
+    6400036: Cylinder019
+    6400038: Cylinder020
+    6400040: Cylinder021
+    6400042: Cylinder022
+    6400044: Cylinder023
+    6400046: Cylinder024
+    6400048: Cylinder025
+    6400050: Cylinder026
+    6400052: Cylinder027
+    6400054: Cylinder028
+    6400056: Cylinder029
+    6400058: Cylinder030
+    6400060: Cylinder031
+    6400062: Cylinder032
+    6400064: Cylinder033
+    6400066: Cylinder034
+    6400068: Cylinder035
+    6400070: Cylinder036
+    6400072: stitch_result_stitch all
+    6400074: stitch_result_stitch all 1
+    6400076: stitch_result_stitch all 10
+    6400078: stitch_result_stitch all 11
+    6400080: stitch_result_stitch all 12
+    6400082: stitch_result_stitch all 13
+    6400084: stitch_result_stitch all 14
+    6400086: stitch_result_stitch all 15
+    6400088: stitch_result_stitch all 16
+    6400090: stitch_result_stitch all 17
+    6400092: stitch_result_stitch all 18
+    6400094: stitch_result_stitch all 19
+    6400096: stitch_result_stitch all 2
+    6400098: stitch_result_stitch all 20
+    6400100: stitch_result_stitch all 21
+    6400102: stitch_result_stitch all 22
+    6400104: stitch_result_stitch all 23
+    6400106: stitch_result_stitch all 3
+    6400108: stitch_result_stitch all 4
+    6400110: stitch_result_stitch all 5
+    6400112: stitch_result_stitch all 6
+    6400114: stitch_result_stitch all 7
+    6400116: stitch_result_stitch all 8
+    6400118: stitch_result_stitch all 9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 163138788, guid: 0c4b82bcf413b4c4db21e9e1ce94ddee, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 163138788, guid: 0c4b82bcf413b4c4db21e9e1ce94ddee, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 163138788, guid: 0c4b82bcf413b4c4db21e9e1ce94ddee, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

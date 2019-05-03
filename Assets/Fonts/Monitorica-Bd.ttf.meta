@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d2a9822e258b3854cbead01d8841ed6b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monitorica
+  fontNames:
+  - Monitorica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 07aed021c9d964349b4128f912254f03, type: 3}
+  - {fileID: 12800000, guid: c7778cb2a5a245b45bf4216fadbcb3a4, type: 3}
+  - {fileID: 12800000, guid: 9d1df69a82bd73547a7b75dbe6e19056, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

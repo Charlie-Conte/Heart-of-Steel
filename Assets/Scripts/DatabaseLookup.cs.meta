@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8392965adafb364792f5496f3ef4723
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - csvFile: {fileID: 102900000, guid: a8fe4f2bad9bd9548b0232538b499281, type: 3}
+  - plateManager: {fileID: 114444414406239938, guid: 56c77507ee8e8d542af7612bd75a6bf7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

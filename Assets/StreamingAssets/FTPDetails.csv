@@ -1,0 +1,6 @@
+//	ftp file address,	username,	password
+
+//[example] 
+//ftp://unity@127.0.0.1/Current_Database.csv,unity,amrc
+
+ftp://unity@127.0.0.1/Current_Database.csv,unity,amrc

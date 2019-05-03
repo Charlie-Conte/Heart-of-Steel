@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67fd851ff58fd574298f6ff3af3d118e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - homeLocation: {fileID: 4442716530969220, guid: 5da6daf29c05a0e40b4cd1d398a97669,
+      type: 2}
+  - centerOfRotation: {fileID: 4284547370031406, guid: 56c77507ee8e8d542af7612bd75a6bf7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
